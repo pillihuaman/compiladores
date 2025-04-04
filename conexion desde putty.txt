@@ -1,0 +1,22 @@
+Host Name (or IP address): Ingresa la IP pública de tu instancia EC2 (por ejemplo, 3.145.180.222).
+
+Port: Deja el valor por defecto 22 (Puerto SSH).
+
+Connection Type: Asegúrate de que esté seleccionado SSH.
+
+5. Seleccionar la Clave Privada (.ppk)
+En el panel izquierdo de PuTTY, bajo Category, ve a Connection > SSH > Auth.
+login as: ec2-user
+Authenticating with public key "ZarmirHurtado"
+   ,     #_
+   ~\_  ####_        Amazon Linux 2023
+  ~~  \_#####\
+  ~~     \###|
+  ~~       \#/ ___   https://aws.amazon.com/linux/amazon-linux-2023
+   ~~       V~' '->
+    ~~~         /
+      ~~._.   _/
+         _/ _/
+       _/m/'
+Last login: Fri Apr  4 16:56:42 2025 from 3.16.146.5
+[ec2-user@ip-172-31-1-72 ~]$
